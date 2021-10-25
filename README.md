@@ -4,3 +4,5 @@
     <img width="1680" alt="Screenshot 2021-10-25 at 1 20 51 PM" src="https://user-images.githubusercontent.com/78562069/138658316-466e2751-e9df-432f-b8cd-a1c9be31ef31.png">
     
    ![image](https://user-images.githubusercontent.com/78562069/138658316-466e2751-e9df-432f-b8cd-a1c9be31ef31.png?raw=true)
+## Registration Page
+<img width="603" alt="Screenshot 2021-10-25 at 1 21 16 PM" src="https://user-images.githubusercontent.com/78562069/138660975-76f14190-2948-400c-ba33-73207d3d5d0d.png">
